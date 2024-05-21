@@ -1,5 +1,3 @@
-# CSET335_DeepLearning_Project
-
 Dataset
 
 Link: https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php
